@@ -63,6 +63,6 @@ Project was created and maintained by **[Dr. Sagar Adhurya](https://github.com/S
 
 ## **Contact**
 
-If you have any questions or comments about Project Title, please contact **[Dr. Sagar Adhurya](sagaradhurya@gmail.com)**.
+If you have any questions or comments about Project Title, please contact **[Dr. Sagar Adhurya](mailto:sagaradhurya@gmail.com)**.
 
 ---
