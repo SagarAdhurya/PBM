@@ -55,6 +55,14 @@ The model effectively simulates prey-predator dynamics with time-dependent growt
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Project Title is released under the MIT License. See the **[LICENSE](https://www.blackbox.ai/share/LICENSE)** file for details.
+
+## Authors
+
+Project was created and maintained by **Dr. Sagar Adhurya (https://github.com/SagarAdhurya)**.
+
+## **Contact**
+
+If you have any questions or comments about Project Title, please contact **Dr. Sagar Adhurya (sagaradhurya@gmail.com)**.
 
 ---
