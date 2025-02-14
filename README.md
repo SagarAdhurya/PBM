@@ -46,7 +46,7 @@ git clone https://github.com/SagarAdhurya/PBM
 
 1. **Model Declaration:** Defines a time-dependent Lotka-Volterra model using observed prey growth rate (`r`) interpolated over time.
 2. **Sensitivity Analysis:** Perturbs model parameters (`a`, `f`, and `q`) by ±10% to evaluate their effects on state variables.
-3. **Advanced Parameter Calibration (APC):** Utilises a cost function to minimise discrepancies between simulated and observed data, adjusting parameters accordingly.
+3. **Automatic Parameter Calibration (APC):** Utilises a cost function to minimise discrepancies between simulated and observed data, adjusting parameters accordingly.
 4. **Visualisation:** Generates dynamic plots to compare simulated results with observed values.
 
 ## Results
